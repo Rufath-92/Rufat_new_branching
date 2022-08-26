@@ -5,5 +5,6 @@ public class User {
 
         System.out.println("User class added");
         System.out.println("User updated");
+        System.out.println("User completed");
     }
 }
